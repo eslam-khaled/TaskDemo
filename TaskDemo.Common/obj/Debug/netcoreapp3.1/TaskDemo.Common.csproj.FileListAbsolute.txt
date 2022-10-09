@@ -1,0 +1,36 @@
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.Common.deps.json
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.Common.pdb
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.DAL.dll
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.DAL.pdb
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.csprojAssemblyReference.cache
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.AssemblyInfoInputs.cache
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.AssemblyInfo.cs
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.csproj.CoreCompileInputs.cache
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.csproj.CopyComplete
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.Common.deps.json
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.Common.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.DAL.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.DAL.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.csprojAssemblyReference.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.AssemblyInfoInputs.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.AssemblyInfo.cs
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.csproj.CoreCompileInputs.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.csproj.CopyComplete
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.Common.deps.json
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.Common.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.DAL.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\bin\Debug\netcoreapp3.1\TaskDemo.DAL.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.csprojAssemblyReference.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.AssemblyInfoInputs.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.AssemblyInfo.cs
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.csproj.CoreCompileInputs.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.csproj.CopyComplete
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Common\obj\Debug\netcoreapp3.1\TaskDemo.Common.pdb

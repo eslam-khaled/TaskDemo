@@ -1,0 +1,42 @@
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.csprojAssemblyReference.cache
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.AssemblyInfoInputs.cache
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.AssemblyInfo.cs
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.csproj.CoreCompileInputs.cache
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Business.deps.json
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Business.dll
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Business.pdb
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.DAL.dll
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Common.pdb
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.DAL.pdb
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.csproj.CopyComplete
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.dll
+D:\GitRepos\DemoTaskBackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Business.deps.json
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Business.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Business.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.DAL.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Common.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.DAL.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.csprojAssemblyReference.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.AssemblyInfoInputs.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.AssemblyInfo.cs
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.csproj.CoreCompileInputs.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.csproj.CopyComplete
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Business.deps.json
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Business.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Business.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.DAL.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.Common.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\bin\Debug\netcoreapp3.1\TaskDemo.DAL.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.csprojAssemblyReference.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.AssemblyInfoInputs.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.AssemblyInfo.cs
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.csproj.CoreCompileInputs.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.csproj.CopyComplete
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\TaskDemo.Business\obj\Debug\netcoreapp3.1\TaskDemo.Business.pdb

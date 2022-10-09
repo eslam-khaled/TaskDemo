@@ -1,0 +1,360 @@
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\appsettings.json
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.exe
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.deps.json
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.json
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.dev.json
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.pdb
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Analytics.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Net.Http.Formatting.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Web.Http.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Realm.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Remotion.Linq.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\librealm-wrappers.so
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\librealm-wrappers.dylib
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\realm-wrappers.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\realm-wrappers.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csprojAssemblyReference.cache
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfoInputs.cache
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfo.cs
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csproj.CoreCompileInputs.cache
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.MvcApplicationPartsAssemblyInfo.cs
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.MvcApplicationPartsAssemblyInfo.cache
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\staticwebassets\DemoTask.StaticWebAssets.Manifest.cache
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\staticwebassets\DemoTask.StaticWebAssets.xml
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\scopedcss\bundle\DemoTask.styles.css
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.RazorTargetAssemblyInfo.cache
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csproj.CopyComplete
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.pdb
+D:\git test repos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.genruntimeconfig.cache
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.Business.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.DAL.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.Business.pdb
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.DAL.pdb
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.Common.dll
+D:\git test repos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.Common.pdb
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfoInputs.cache
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfo.cs
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csproj.CoreCompileInputs.cache
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.MvcApplicationPartsAssemblyInfo.cache
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.exe
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.deps.json
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.json
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.dev.json
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.pdb
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Analytics.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Business.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.DAL.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Business.pdb
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Common.pdb
+D:\GitRepos\DemoTaskBackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.DAL.pdb
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csprojAssemblyReference.cache
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.MvcApplicationPartsAssemblyInfo.cs
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\staticwebassets\DemoTask.StaticWebAssets.Manifest.cache
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\staticwebassets\DemoTask.StaticWebAssets.xml
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\scopedcss\bundle\DemoTask.styles.css
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.RazorTargetAssemblyInfo.cache
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csproj.CopyComplete
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.dll
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.pdb
+D:\GitRepos\DemoTaskBackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.genruntimeconfig.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.exe
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.deps.json
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.json
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.dev.json
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Analytics.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Business.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.DAL.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Business.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Common.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.DAL.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csprojAssemblyReference.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfoInputs.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfo.cs
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csproj.CoreCompileInputs.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.MvcApplicationPartsAssemblyInfo.cs
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.MvcApplicationPartsAssemblyInfo.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\staticwebassets\DemoTask.StaticWebAssets.Manifest.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\staticwebassets\DemoTask.StaticWebAssets.xml
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\scopedcss\bundle\DemoTask.styles.css
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.RazorTargetAssemblyInfo.cache
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csproj.CopyComplete
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.dll
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.pdb
+D:\GitRepos\latest\DemoTaskBackEnd _ Latest\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.genruntimeconfig.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\appsettings.json
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.exe
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.deps.json
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.json
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.runtimeconfig.dev.json
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\DemoTask.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Analytics.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.Views.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.AzureAD.UI.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Business.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Common.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.DAL.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Business.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.Common.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\bin\Debug\netcoreapp3.1\TaskDemo.DAL.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csprojAssemblyReference.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfoInputs.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.AssemblyInfo.cs
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csproj.CoreCompileInputs.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.MvcApplicationPartsAssemblyInfo.cs
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.MvcApplicationPartsAssemblyInfo.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\staticwebassets\DemoTask.StaticWebAssets.Manifest.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\staticwebassets\DemoTask.StaticWebAssets.xml
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\scopedcss\bundle\DemoTask.styles.css
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.RazorTargetAssemblyInfo.cache
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.csproj.CopyComplete
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.dll
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.pdb
+D:\GitRepos\DemoRepo\DemoTask_BackEnd\InetumTask\obj\Debug\netcoreapp3.1\DemoTask.genruntimeconfig.cache
